@@ -43,3 +43,7 @@ transitflow-ejs/
     ├── pages/
     └── partials/
 ```
+
+
+video explanation
+https://drive.google.com/file/d/1YKrnC8v13a69Kml_q-BPoxmTYDAM5qP5/view?usp=sharing
